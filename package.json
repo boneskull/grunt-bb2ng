@@ -1,0 +1,43 @@
+{
+  "name": "grunt-bb2ng",
+  "description": "Grunt task to convert a Backbone project to an AngularJS project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/boneskull/grunt-bb2ng",
+  "author": {
+    "name": "Christopher Hiller",
+    "email": "chiller@badwing.com",
+    "url": "http://boneskull.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boneskull/grunt-bb2ng.git"
+  },
+  "bugs": {
+    "url": "https://github.com/boneskull/grunt-bb2ng/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/boneskull/grunt-bb2ng/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
