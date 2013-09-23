@@ -86,7 +86,7 @@ grunt.initConfig({
 
 You'll need to include the generated file (above, `my-angularjs-app.js`) and bootstrap your
 AngularJS app in some way.  The easiest way to do this is to add an `ngApp="myApp"` (or whatever
-you named your module) attribte to the `<body>` or `<html>` tag of your HTML, as seen (here)[https://github.com/boneskull/grunt-bb2ng/blob/master/demo/test.html].
+you named your module) attribte to the `<body>` or `<html>` tag of your HTML, as seen [here](https://github.com/boneskull/grunt-bb2ng/blob/master/demo/test.html).
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
