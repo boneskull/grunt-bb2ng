@@ -1,7 +1,7 @@
 {
   "name": "grunt-bb2ng",
   "description": "Grunt task to convert a Backbone project to an AngularJS project",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/boneskull/grunt-bb2ng",
   "author": {
     "name": "Christopher Hiller",
